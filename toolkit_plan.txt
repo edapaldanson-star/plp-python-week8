@@ -1,0 +1,59 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+1. TOOLS
+
+Simple Calculator:
+This tool will ask the user for two numbers and an operation, then calculate and display the result.
+
+To-Do List:
+This tool will allow the user to add tasks, view the current tasks, and remove tasks from a list.
+
+Number Guessing Game:
+This tool will choose a secret number and let the user keep guessing until they find the correct number.
+
+Name Formatter:
+This tool will ask for a name and display it in a neat, friendly format.
+
+2. MENU TEXT
+
+=== Personal Mini-Toolkit ===
+
+1. Simple Calculator
+2. To-Do List
+3. Number Guessing Game
+4. Name Formatter
+5. Quit
+
+Choose an option:
+
+3. CONCEPTS USED
+
+Simple Calculator:
+
+* Variables
+* Input and output
+* Conditionals
+* F-strings
+
+To-Do List:
+
+* Lists
+* Loops
+* Conditionals
+* Input and output
+* F-strings
+
+Number Guessing Game:
+
+* Loop
+* Conditionals
+* Variables
+* Input and output
+* F-strings
+
+Name Formatter:
+
+* Variables
+* Input and output
+* F-strings
+* String methods
